@@ -1,0 +1,10 @@
+com\stud\model\Stud.class
+com\stud\model\StudManytoMany.class
+com\stud\config\EhCacheConfiguration.class
+com\stud\service\StudService.class
+com\stud\dao\StudDAOImpl.class
+com\stud\service\StudServiceImpl.class
+com\stud\model\University.class
+com\stud\controller\StudController.class
+com\stud\model\Subject.class
+com\stud\dao\StudDAO.class
